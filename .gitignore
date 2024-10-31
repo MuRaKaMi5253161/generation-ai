@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/src/lib/
+/src/lib/firebase/firebaseClient.ts
 /.pnp
 .pnp.js
 .yarn/install-state.gz
@@ -37,3 +37,4 @@ yarn-error.log*
 next-env.d.ts
 
 .env.local
+/src/lib/firebase/firebaseClient.ts
